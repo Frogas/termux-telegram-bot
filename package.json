@@ -1,5 +1,6 @@
 {
   "name": "termux-telegram-bot",
+  "author": "Shikukiza",
   "version": "1.0.0",
   "description": "TelegramBot untuk Termux",
   "main": "index.js",
