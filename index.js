@@ -2,7 +2,7 @@ const TelegramBot = require("node-telegram-bot-api");
 const token = "ISI TOKEN @BotFather";
 const client = new TelegramBot(token, { polling: true });
 
-client.on('message', (msg) => {
+client.on("message", (msg) => {
   //replying
 });
 
