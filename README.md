@@ -10,13 +10,13 @@ $./start-ubuntu.sh
 
 #apt update -y && apt upgrade -y
 
-#apt install git
+#apt install git -y
 
 #git clone https://github.com/Shikukiza/telegram-bot
 
-#apt install nano
+#apt install nano -y
 
-#apt install npm
+#apt install npm -y
 
 #cd termux-telegram-bot
 
