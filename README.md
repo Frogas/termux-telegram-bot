@@ -1,4 +1,4 @@
-# Telegram Bot khusus untuk Termux
+# Termux Telegram Bot khusus untuk Termux
 
 TelegramBot API
 
@@ -18,7 +18,7 @@ $./start-ubuntu.sh
 
 #apt install npm
 
-#cd telegram-bot
+#cd termux-telegram-bot
 
 #nano index.js
 
