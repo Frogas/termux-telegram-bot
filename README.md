@@ -1,10 +1,10 @@
-# termux-telegram-bot
-Termux Telegram Bot API
+# Telegram Bot khusus untuk Termux
+
 TelegramBot API
 
-script:
+# Ikuti Langkah-Langkahnya dibawah ini
 
-$pkg update -y && pkg install curl proot tar -y && curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/Ubuntu.sh | bash
+$pkg update -y && pkg install curl proot tar -y && curl https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu/Ubuntu.sh | bash 
 
 $./start-ubuntu.sh
 
@@ -12,7 +12,7 @@ $./start-ubuntu.sh
 
 #apt install git
 
-#git clone https://github.com/Shikukiza/termux-telegram-bot
+#git clone https://github.com/Shikukiza/telegram-bot
 
 #apt install nano
 
@@ -31,6 +31,8 @@ lepas sdh klik ctrl x terus ctrl y
 #node index.js
 
 nah seterusnya cek bot kalian ketik /start
+
+# Catatan
 
 Selamat Mencoba :)
 
