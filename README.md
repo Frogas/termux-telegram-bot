@@ -22,7 +22,7 @@ $./start-ubuntu.sh
 
 #nano index.js
 
-Nah disini pas buka index.js nya ada disitu const Token: "masukantokenbot kalian yg sudah dibuat @botfather copy disini";
+Nah disini pas buka index.js nya ada disitu const token: "masukantokenbot kalian yg sudah dibuat @botfather copy disini";
 
 lepas sdh klik ctrl x terus ctrl y
 
