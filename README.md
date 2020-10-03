@@ -18,6 +18,8 @@ $./start-ubuntu.sh
 
 #apt install npm -y
 
+#apt install nodejs -y
+
 #cd termux-telegram-bot
 
 #nano index.js
