@@ -22,6 +22,8 @@ $./start-ubuntu.sh
 
 #cd termux-telegram-bot
 
+#npm install
+
 #nano index.js
 
 Nah disini pas buka index.js nya ada disitu const token: "masukantokenbot kalian yg sudah dibuat @botfather copy disini";
