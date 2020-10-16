@@ -50,6 +50,7 @@ TelegramBot API
 Nah disini pas buka index.js nya ada disitu const token: "masukantokenbot kalian yg sudah dibuat @botfather copy disini";
 
 lepas sdh klik ctrl x terus ctrl y
+
 <b>Install depend NodeTeleBotApi</b>
 ```bash
 > npm install --save node-telegram-bot-api
