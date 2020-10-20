@@ -21,7 +21,7 @@ TelegramBot API
 ```
 <b>Cloning ini</b>
 ```bash
-> git clone https://github.com/Shikukiza/telegram-bot
+> git clone https://github.com/Frogas/telegram-bot
 ```
 <b>Install Nano</b>
 ```bash
